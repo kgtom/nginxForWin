@@ -1,0 +1,215 @@
+2016/09/23 16:51:36 [emerg] 49372#9784: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/09/23 16:52:18 [emerg] 35356#60884: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/09/23 16:52:22 [emerg] 22752#49252: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/09/23 16:53:34 [emerg] 15524#17200: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/09/23 16:53:44 [emerg] 67572#62244: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/09/23 16:54:39 [error] 57336#59348: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8085", referrer: "http://localhost:8085/"
+2016/09/23 16:59:41 [notice] 38392#24624: signal process started
+2016/09/23 17:00:00 [notice] 63344#15316: signal process started
+2016/09/23 17:00:00 [error] 63344#15316: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/09/23 17:01:41 [notice] 28204#58992: signal process started
+2016/09/23 17:01:41 [error] 28204#58992: invalid PID number "" in "C:\nginx/logs/nginx.pid"
+2016/09/23 17:04:23 [notice] 72936#56040: signal process started
+2016/09/23 17:04:23 [error] 72936#56040: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/09/23 17:04:40 [notice] 20000#54024: signal process started
+2016/09/23 17:04:40 [error] 20000#54024: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/09/23 17:07:48 [notice] 6728#16248: signal process started
+2016/09/23 17:07:48 [error] 6728#16248: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/09/23 17:10:45 [notice] 51952#31908: signal process started
+2016/09/23 17:10:45 [error] 51952#31908: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/09/23 17:13:33 [notice] 59048#19908: signal process started
+2016/09/23 17:14:32 [notice] 67540#62660: signal process started
+2016/09/23 17:14:37 [notice] 52840#64436: signal process started
+2016/09/23 17:16:01 [notice] 65896#57572: signal process started
+2016/09/23 17:17:54 [notice] 20876#46452: signal process started
+2016/09/23 17:18:49 [emerg] 70044#28360: unknown directive "localhost:801" in C:\nginx/conf/nginx.conf:43
+2016/09/23 17:30:21 [emerg] 28864#19956: unknown directive "localhost/" in C:\nginx/conf/nginx.conf:43
+2016/09/23 17:30:21 [alert] 46880#63684: worker process 28864 exited with code 1
+2016/09/23 17:30:21 [alert] 46880#63684: could not respawn worker
+2016/09/23 17:30:35 [emerg] 55088#53768: unknown directive "localhost/" in C:\nginx/conf/nginx.conf:43
+2016/09/23 17:30:35 [alert] 2428#5468: worker process 55088 exited with code 1
+2016/09/23 17:30:35 [alert] 2428#5468: could not respawn worker
+2016/09/23 17:31:01 [emerg] 51356#75436: unknown directive "localhost/" in C:\nginx/conf/nginx.conf:43
+2016/09/23 17:31:11 [emerg] 13112#47076: unknown directive "localhost/" in C:\nginx/conf/nginx.conf:43
+2016/09/23 17:32:07 [notice] 5448#58688: signal process started
+2016/09/23 17:32:14 [notice] 1496#40256: signal process started
+2016/09/23 17:40:00 [notice] 45280#32496: signal process started
+2016/09/23 17:40:00 [error] 45280#32496: OpenEvent("Global\ngx_reload_50024") failed (2: The system cannot find the file specified)
+2016/09/23 17:40:14 [notice] 57240#33008: signal process started
+2016/09/23 17:40:14 [error] 57240#33008: OpenEvent("Global\ngx_stop_50024") failed (2: The system cannot find the file specified)
+2016/09/23 17:43:12 [emerg] 27676#11216: unknown directive "¡¡" in C:\nginx/conf/nginx.conf:35
+2016/09/23 17:43:12 [alert] 54328#42628: worker process 27676 exited with code 1
+2016/09/23 17:43:12 [alert] 54328#42628: could not respawn worker
+2016/09/23 17:43:38 [emerg] 69532#31224: unknown directive "¡¡" in C:\nginx/conf/nginx.conf:35
+2016/09/23 17:46:33 [emerg] 22516#21448: unexpected end of file, expecting "}" in C:\nginx/conf/nginx.conf:127
+2016/09/23 17:47:27 [emerg] 29200#43672: unexpected end of file, expecting "}" in C:\nginx/conf/nginx.conf:127
+2016/09/23 17:47:44 [emerg] 28748#6432: unexpected end of file, expecting "}" in C:\nginx/conf/nginx.conf:127
+2016/09/23 17:48:16 [emerg] 56096#13232: "location" directive is not allowed here in C:\nginx/conf/nginx.conf:62
+2016/09/23 17:48:41 [emerg] 36156#66480: unexpected "}" in C:\nginx/conf/nginx.conf:126
+2016/09/23 17:50:02 [notice] 67640#51176: signal process started
+2016/09/23 17:50:02 [error] 67640#51176: OpenEvent("Global\ngx_stop_54328") failed (2: The system cannot find the file specified)
+2016/09/23 17:50:09 [notice] 67788#9156: signal process started
+2016/09/23 17:50:09 [error] 67788#9156: OpenEvent("Global\ngx_stop_54328") failed (2: The system cannot find the file specified)
+2016/09/23 17:50:24 [error] 73152#54004: *1 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 17:50:26 [error] 73152#54004: *1 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 17:50:57 [notice] 65448#65540: signal process started
+2016/09/23 17:51:03 [error] 74588#6972: *1 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 17:51:04 [error] 74588#6972: *1 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 17:51:19 [notice] 15572#5976: signal process started
+2016/09/23 17:51:28 [error] 61324#50024: *3 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:13:49 [emerg] 13740#14416: invalid URL prefix in C:\nginx/conf/nginx.conf:46
+2016/09/23 18:14:05 [emerg] 23996#57888: invalid URL prefix in C:\nginx/conf/nginx.conf:46
+2016/09/23 18:14:53 [emerg] 33988#54940: invalid URL prefix in C:\nginx/conf/nginx.conf:46
+2016/09/23 18:16:13 [emerg] 50688#44880: invalid URL prefix in C:\nginx/conf/nginx.conf:46
+2016/09/23 18:16:15 [emerg] 17624#72472: invalid URL prefix in C:\nginx/conf/nginx.conf:46
+2016/09/23 18:16:17 [emerg] 8680#55304: invalid URL prefix in C:\nginx/conf/nginx.conf:46
+2016/09/23 18:16:26 [emerg] 49504#58632: invalid URL prefix in C:\nginx/conf/nginx.conf:46
+2016/09/23 18:16:46 [emerg] 10752#12392: invalid URL prefix in C:\nginx/conf/nginx.conf:46
+2016/09/23 18:16:48 [emerg] 20440#20968: invalid URL prefix in C:\nginx/conf/nginx.conf:46
+2016/09/23 18:16:55 [error] 61324#50024: *5 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:16:56 [error] 61324#50024: *5 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:16:56 [error] 61324#50024: *5 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:16:56 [error] 61324#50024: *5 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:16:56 [error] 61324#50024: *5 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:16:56 [error] 61324#50024: *5 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:16:56 [error] 61324#50024: *5 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:02 [notice] 46380#64520: signal process started
+2016/09/23 18:20:05 [notice] 21692#29984: signal process started
+2016/09/23 18:20:10 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:12 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:12 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:13 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:13 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:13 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:13 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:14 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:14 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:14 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:14 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:15 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:15 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:15 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:15 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:15 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:15 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:16 [error] 61324#50024: *7 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: www.baidu.com, request: "GET / HTTP/1.1", host: "localhost:8085"
+2016/09/23 18:20:26 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:20:26 [error] 61324#50024: *9 CreateFile() "C:\nginx/www.baidu.com/favicon.ico" failed (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET /favicon.ico HTTP/1.1", host: "192.168.0.28:8085", referrer: "http://192.168.0.28:8085/"
+2016/09/23 18:21:02 [notice] 45224#29528: signal process started
+2016/09/23 18:21:08 [notice] 54972#42640: signal process started
+2016/09/23 18:21:08 [error] 54972#42640: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/09/23 18:21:19 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:19 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:20 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:20 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:20 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:20 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:21 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:21 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:21 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:21 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:22 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:22 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:22 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:22 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:22 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:22 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:22 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:22 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:23 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:23 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:23 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:24 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:24 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:24 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:24 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:24 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:24 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:24 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:24 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:24 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:25 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:25 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:25 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:27 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:28 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:28 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:28 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:28 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:28 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:28 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:28 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:28 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:28 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:28 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:28 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:28 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:28 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:29 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:21:30 [error] 61324#50024: *9 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:26:25 [emerg] 70844#72200: invalid URL prefix in C:\nginx/conf/nginx.conf:43
+2016/09/23 18:26:40 [emerg] 36940#67816: invalid URL prefix in C:\nginx/conf/nginx.conf:43
+2016/09/23 18:26:43 [emerg] 67864#74852: invalid URL prefix in C:\nginx/conf/nginx.conf:43
+2016/09/23 18:26:54 [emerg] 20196#54824: invalid URL prefix in C:\nginx/conf/nginx.conf:43
+2016/09/23 18:27:11 [emerg] 38284#23732: invalid URL prefix in C:\nginx/conf/nginx.conf:43
+2016/09/23 18:27:14 [emerg] 68012#43672: invalid URL prefix in C:\nginx/conf/nginx.conf:43
+2016/09/23 18:27:24 [emerg] 51684#3604: invalid URL prefix in C:\nginx/conf/nginx.conf:43
+2016/09/23 18:37:01 [notice] 58532#43196: signal process started
+2016/09/23 18:37:07 [notice] 35920#30856: signal process started
+2016/09/23 18:37:07 [error] 35920#30856: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/09/23 18:37:20 [notice] 44252#33768: signal process started
+2016/09/23 18:37:26 [error] 61324#50024: *11 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:37:28 [error] 61324#50024: *11 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:37:28 [error] 61324#50024: *11 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:37:28 [error] 61324#50024: *11 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:37:28 [error] 61324#50024: *11 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:37:29 [error] 61324#50024: *11 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:37:29 [error] 61324#50024: *11 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:37:30 [error] 61324#50024: *11 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:37:30 [error] 61324#50024: *11 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:37:30 [error] 61324#50024: *11 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:37:30 [error] 61324#50024: *11 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:37:30 [error] 61324#50024: *11 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:37:30 [error] 61324#50024: *11 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:38:27 [error] 61324#50024: *12 "C:\nginx/www.baidu.com/index.html" is not found (3: The system cannot find the path specified), client: 192.168.0.28, server: www.baidu.com, request: "GET / HTTP/1.1", host: "192.168.0.28:8085"
+2016/09/23 18:40:02 [notice] 35900#54636: signal process started
+2016/09/23 18:40:02 [emerg] 32112#26412: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/09/23 18:40:05 [notice] 34408#69848: signal process started
+2016/09/23 18:40:07 [emerg] 2896#53696: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/09/23 18:40:32 [emerg] 74136#54564: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/09/23 18:40:32 [alert] 46276#39008: worker process 74136 exited with code 1
+2016/09/23 18:40:32 [alert] 46276#39008: could not respawn worker
+2016/09/23 18:40:48 [emerg] 35596#73048: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2016/09/23 18:45:48 [notice] 74980#60020: signal process started
+2016/09/23 18:45:48 [error] 74980#60020: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/09/23 18:45:59 [notice] 70064#72676: signal process started
+2016/09/23 18:46:03 [notice] 69664#13480: signal process started
+2016/09/23 18:46:29 [notice] 65204#31320: signal process started
+2016/09/23 18:46:31 [notice] 40404#51464: signal process started
+2016/09/23 18:46:31 [error] 40404#51464: CreateFile() "C:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2016/09/23 18:46:34 [notice] 6448#66004: signal process started
